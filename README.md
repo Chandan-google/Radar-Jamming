@@ -13,4 +13,6 @@ x ms, which is the pulse width duration.
 If the TG is available, it will be moved from free to allocated list.
 If the corresponding RFTG is unavailable, program prints “resource unavailable” which
 means jamming technique cannot be executed
+# IMAGE
+![2-Figure1-1](https://user-images.githubusercontent.com/81713226/221400844-0afdb206-5606-4e2b-9043-16ca34360012.png)
 ![images](https://user-images.githubusercontent.com/81713226/220985961-d0432f57-726d-4a4e-bb4a-b6999212f211.jpeg)
